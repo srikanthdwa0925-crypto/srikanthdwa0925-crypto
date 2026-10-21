@@ -1,183 +1,233 @@
 <div align="center">
 
-<!-- Responsive banner: GitHub supports <picture> in README HTML -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:EF93C4,50:F8BBD0,100:FF69B4&text=DWARAPUREDDY%20SRIKANTH&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=MERN%20%7C%20Full%20Stack%20%7C%20AI%20Integration&descAlignY=58&descSize=16">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:F8BBD0,50:EF93C4,100:FF69B4&text=DWARAPUREDDY%20SRIKANTH&fontColor=3d2634&fontSize=38&fontAlignY=38&desc=MERN%20%7C%20Full%20Stack%20%7C%20AI%20Integration&descAlignY=58&descSize=16">
-  <img alt="Pink gradient banner" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:EF93C4,50:F8BBD0,100:FF69B4&text=DWARAPUREDDY%20SRIKANTH&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=MERN%20%7C%20Full%20Stack%20%7C%20AI%20Integration&descAlignY=58&descSize=16" width="100%">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1220,50:142B4A,100:D4AF37&text=SRIKANTH%20DWARAPUREDDY&fontColor=F3F6FC&fontSize=36&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20APPLICATIONS&descAlignY=58&descSize=15" width="100%" alt="Royal blue and gold profile banner"/>
 
-Hey there, I'm Srikanth 👋
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EF93C4&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Full+Stack+Developer;AI+%26+RAG+Application+Builder;Java+%7C+DSA+%7C+Problem+Solver;Turning+Ideas+Into+Useful+Products" alt="Typing SVG">
-</a>
+# Srikanth Dwarapureddy
 
-<p>
-  <a href="https://github.com/srikanthdwa0925-crypto">
-    <img src="https://img.shields.io/github/followers/srikanthdwa0925-crypto?label=Followers&style=for-the-badge&color=EF93C4&labelColor=30232B" alt="GitHub followers">
-  </a>
-  <a href="https://github.com/srikanthdwa0925-crypto?tab=repositories">
-    <img src="https://img.shields.io/github/stars/srikanthdwa0925-crypto?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F8BBD0&labelColor=30232B" alt="GitHub stars">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=srikanthdwa0925-crypto&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS" alt="Profile views">
-</p>
+### Full Stack Developer | Backend Engineering | AI Integration
 
-<p>
-  <b>Building responsive web apps, reliable APIs, and AI-powered experiences.</b><br>
-  📍 Andhra Pradesh, India &nbsp; • &nbsp; 🎓 Information Technology Student
-</p>
+Building responsive web applications, reliable REST APIs, and AI-powered solutions.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-142B4A?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/srikanthdwa0925-crypto)
+[![Email](https://img.shields.io/badge/Email-Contact-D4AF37?style=for-the-badge&logo=gmail&logoColor=0B1220)](mailto:sreenew0925@gmail.com)
+
+📍 Andhra Pradesh, India &nbsp; • &nbsp; 🎓 B.Tech in Information Technology
 
 </div>
 
-👨‍💻 About Me
-<table>
+---
+
+## 👨‍💻 About Me
+
+I'm **Srikanth Dwarapureddy**, a Full Stack Developer interested in building scalable web applications, backend services, and AI-integrated products.
+
+- 💻 Develop full-stack applications using React, Node.js, Express, and Django REST Framework.
+- ⚙️ Build REST APIs, authentication flows, and database-driven applications.
+- 🤖 Work with AI agents, Retrieval-Augmented Generation (RAG), embeddings, and semantic search.
+- 🧠 Strengthen my problem-solving skills through Java and Data Structures & Algorithms.
+- 🚀 Focus on clean code, responsive interfaces, performance, and practical software solutions.
+
+**Current focus:** Backend engineering, full-stack development, and AI-powered applications.
+
+## 💼 Experience
+
+### Software Developer Intern — CareerBrook.AI
+*October 2025 – February 2026*
+
+- Developed REST APIs using Django and Django REST Framework for authentication, student profiles, study plans, and scheduling.
+- Built AI-driven student and content agents using RAG for personalized study plans and intelligent question answering.
+- Worked on data ingestion, embeddings generation, and vector indexing to improve content retrieval.
+
+### MERN Stack / Firebase Developer Intern — Neuraq Technologies
+*August 2025 – September 2025*
+
+- Developed full-stack features using MongoDB, Express.js, React, and Node.js.
+- Built reusable, responsive UI components with React and Tailwind CSS.
+- Optimized API calls and database queries to improve application performance.
+
+## 🛠️ Technical Arsenal
+
+<table width="100%" align="center">
   <tr>
-    <td width="65%" valign="middle">
-      <p>I'm <b>Srikanth Dwarapureddy</b>, a MERN Stack and Full Stack Developer who enjoys building practical web applications and AI-integrated backend systems.</p>
-      <ul>
-        <li>💻 Building with React, Node.js, Express, Django, and REST APIs.</li>
-        <li>🤖 Exploring AI agents, RAG pipelines, embeddings, and document intelligence.</li>
-        <li>🧠 Practicing Java, Data Structures &amp; Algorithms, and problem solving.</li>
-        <li>🗄️ Working with MongoDB, PostgreSQL, MySQL, and Firebase.</li>
-        <li>🚀 Interested in clean UI, scalable services, and useful products.</li>
-        <li>🎓 B.Tech in Information Technology at Vishnu Institute of Technology.</li>
-      </ul>
-      <p><b>Current focus:</b> improving problem-solving skills and building full-stack projects with AI capabilities.</p>
+    <td align="center" width="50%">
+      <h3>💻 Languages</h3>
+      <img src="https://skillicons.dev/icons?i=java,js" height="52" alt="Java and JavaScript" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/SQL-14213D?style=for-the-badge&logo=postgresql&logoColor=E0B84C" alt="SQL" />
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=srikanthdwa0925-crypto&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=808080&rank_icon=github" alt="GitHub stats" width="100%">
+    <td align="center" width="50%">
+      <h3>🎨 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" height="52" alt="React, Tailwind CSS, Bootstrap" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>⚙️ Backend</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,django" height="52" alt="Node.js, Express, Django" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🗄️ Databases &amp; Search</h3>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres" height="48" alt="MongoDB, MySQL, Firebase, PostgreSQL" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/pgvector-14213D?style=for-the-badge&logo=postgresql&logoColor=E0B84C" alt="pgvector" />
+      <img src="https://img.shields.io/badge/Vector_Search-14213D?style=for-the-badge&labelColor=E0B84C&color=14213D" alt="Vector Search" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>🤖 AI &amp; Intelligent Applications</h3>
+      <img src="https://img.shields.io/badge/RAG-14213D?style=for-the-badge&labelColor=E0B84C" alt="RAG" />
+      <img src="https://img.shields.io/badge/AI_Agents-14213D?style=for-the-badge&labelColor=E0B84C" alt="AI Agents" />
+      <img src="https://img.shields.io/badge/Google_Gemini-14213D?style=for-the-badge&logo=googlegemini&logoColor=E0B84C" alt="Google Gemini" />
+      <img src="https://img.shields.io/badge/OpenAI-14213D?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Embeddings-14213D?style=for-the-badge&labelColor=E0B84C" alt="Embeddings" />
+      <img src="https://img.shields.io/badge/Semantic_Search-14213D?style=for-the-badge&labelColor=E0B84C" alt="Semantic Search" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>🔧 Tools &amp; Workflow</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="52" alt="Git, GitHub, VS Code, Postman" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/n8n-Automation-14213D?style=for-the-badge&logo=n8n&logoColor=E0B84C" alt="n8n Automation" />
+      <img src="https://img.shields.io/badge/Supabase-14213D?style=for-the-badge&logo=supabase&logoColor=E0B84C" alt="Supabase" />
     </td>
   </tr>
 </table>
 
-🧰 Tech Stack
+### Languages
+
+![Java](https://img.shields.io/badge/Java-D4AF37?style=for-the-badge&logo=openjdk&logoColor=0B1220)
+![JavaScript](https://img.shields.io/badge/JavaScript-142B4A?style=for-the-badge&logo=javascript&logoColor=F3F6FC)
+![SQL](https://img.shields.io/badge/SQL-0B1220?style=for-the-badge&logo=postgresql&logoColor=D4AF37)
+
+### Frontend Development
+
+![React](https://img.shields.io/badge/React-142B4A?style=for-the-badge&logo=react&logoColor=F3F6FC)
+![Next.js](https://img.shields.io/badge/Next.js-0B1220?style=for-the-badge&logo=nextdotjs&logoColor=F3F6FC)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-142B4A?style=for-the-badge&logo=tailwindcss&logoColor=F3F6FC)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-D4AF37?style=for-the-badge&logo=bootstrap&logoColor=0B1220)
+
+### Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-142B4A?style=for-the-badge&logo=nodedotjs&logoColor=D4AF37)
+![Express.js](https://img.shields.io/badge/Express.js-0B1220?style=for-the-badge&logo=express&logoColor=F3F6FC)
+![Django](https://img.shields.io/badge/Django-142B4A?style=for-the-badge&logo=django&logoColor=F3F6FC)
+![REST APIs](https://img.shields.io/badge/REST_APIs-D4AF37?style=for-the-badge&logo=fastapi&logoColor=0B1220)
+
+### Databases and Tools
+
+![MongoDB](https://img.shields.io/badge/MongoDB-142B4A?style=for-the-badge&logo=mongodb&logoColor=D4AF37)
+![MySQL](https://img.shields.io/badge/MySQL-0B1220?style=for-the-badge&logo=mysql&logoColor=F3F6FC)
+![Firebase](https://img.shields.io/badge/Firebase-142B4A?style=for-the-badge&logo=firebase&logoColor=D4AF37)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1220?style=for-the-badge&logo=postgresql&logoColor=F3F6FC)
+![Git](https://img.shields.io/badge/Git-142B4A?style=for-the-badge&logo=git&logoColor=D4AF37)
+![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=F3F6FC)
+![Postman](https://img.shields.io/badge/Postman-142B4A?style=for-the-badge&logo=postman&logoColor=D4AF37)
+
+### AI and Application Development
+
+![RAG](https://img.shields.io/badge/RAG_Applications-142B4A?style=for-the-badge&logo=googlegemini&logoColor=F3F6FC)
+![AI Integration](https://img.shields.io/badge/AI_Integration-D4AF37?style=for-the-badge&logo=openai&logoColor=0B1220)
+![Embeddings](https://img.shields.io/badge/Vector_Embeddings-0B1220?style=for-the-badge&logo=databricks&logoColor=D4AF37)
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Sree-Foods — AI-Powered Food Delivery
+
+A food delivery platform featuring personalized food recommendations and responsive user experiences.
+
+- Integrated AI-powered food recommendations.
+- Implemented JWT-based authentication and REST APIs.
+- Used Firestore synchronization for application data.
+
+**Technologies:** React, Node.js, Express.js, Firebase, JWT
+
+[![View Project](https://img.shields.io/badge/View_Project-142B4A?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/srikanthdwa0925-crypto/FOODDEV)
+
+### 2. Chat With Your Docs — AI Document Assistant
+
+An AI-powered document assistant that retrieves relevant document context and generates answers with page-level citations.
+
+- Implemented document chunking, vector embeddings, and semantic similarity search.
+- Integrated Google Gemini and OpenAI for contextual response generation.
+- Built secure document handling and a responsive chat interface.
+
+**Technologies:** Next.js, TypeScript, React, PostgreSQL, pgvector, Supabase, Gemini, OpenAI
+
+[![View Project](https://img.shields.io/badge/View_Project-142B4A?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/srikanthdwa0925-crypto/chat-with-your-docs)
+
+### 3. CareerBrook.AI — Career and Learning Platform
+
+A career and learning platform with backend APIs and AI-powered student and content agents.
+
+- Developed Django REST APIs for student profiles, study plans, and scheduling.
+- Applied RAG workflows to personalized learning and question answering.
+- Worked on embeddings generation and content retrieval pipelines.
+
+**Technologies:** Python, Django REST Framework, RAG, AI Agents
+
+[![Explore Repositories](https://img.shields.io/badge/Explore_Repositories-142B4A?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/srikanthdwa0925-crypto?tab=repositories)
+
+### 4. Neuraq Staff Management System
+
+A workforce management application supporting attendance, task scheduling, staff workflows, and AI-assisted analytics.
+
+- Developed backend services for authentication, attendance, and workforce data.
+- Implemented CRUD operations and database optimizations.
+- Worked on analytics for attendance trends and workforce insights.
+
+**Technologies:** Node.js, Express.js, Django, MongoDB, SQL
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
 
-Languages
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css" alt="Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=srikanthdwa0925-crypto&show_icons=true&hide_border=true&bg_color=0B1220&title_color=D4AF37&icon_color=D4AF37&text_color=F3F6FC&include_all_commits=true" alt="GitHub statistics"/>
 
-Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" alt="Frontend technologies" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanthdwa0925-crypto&layout=compact&hide_border=true&bg_color=0B1220&title_color=D4AF37&text_color=F3F6FC" alt="Most used programming languages"/>
 
-Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,mongodb,postgres,mysql,firebase,redis" alt="Backend and databases" />
-
-Tools & AI
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws" alt="Tools and cloud" />
-<br>
-<img src="https://img.shields.io/badge/AI%20Agents-Exploring-EF93C4?style=for-the-badge&logo=openai&logoColor=white" alt="AI agents">
-<img src="https://img.shields.io/badge/RAG%20%26%20Embeddings-Building-F8BBD0?style=for-the-badge&logo=googlegemini&logoColor=30232B" alt="RAG and embeddings">
+<img width="70%" src="https://streak-stats.demolab.com?user=srikanthdwa0925-crypto&hide_border=true&background=0B1220&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=F3F6FC&dates=9CA3AF&currStreakNum=F3F6FC&sideNums=F3F6FC" alt="GitHub contribution streak"/>
 
 </div>
 
-🚀 Featured Projects
-<div align="center">
+---
 
-<a href="https://github.com/srikanthdwa0925-crypto/FOODDEV">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srikanthdwa0925-crypto&repo=FOODDEV&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=808080" alt="FOODDEV repository card">
-</a>
-<a href="https://github.com/srikanthdwa0925-crypto/chat-with-your-docs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srikanthdwa0925-crypto&repo=chat-with-your-docs&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=808080" alt="Chat With Your Docs repository card">
-</a>
-<a href="https://github.com/srikanthdwa0925-crypto/CareerBrook">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srikanthdwa0925-crypto&repo=CareerBrook&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=808080" alt="CareerBrook repository card">
-</a>
-<a href="https://github.com/srikanthdwa0925-crypto/my-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srikanthdwa0925-crypto&repo=my-website&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=808080" alt="Neuraq staff management repository card">
-</a>
+## 🎓 Education
 
-</div>
+**Vishnu Institute of Technology** — Bhimavaram, India
 
-- Sree-Foods / FOODDEV — Food delivery platform with AI-powered food recommendations, JWT authentication, Firestore synchronization, and responsive UI.
-- Chat With Your Docs — AI document assistant using document chunking, embeddings, semantic retrieval, Gemini/OpenAI, and page-level citations.
-- CareerBrook.AI — Career and learning platform with Django REST APIs and RAG-powered student/content agents.
-- Neuraq Staff Management — Workforce management application featuring staff workflows, attendance, tasks, and AI-assisted analytics.
-📊 GitHub Analytics
-<div align="center">
+Bachelor of Technology in Information Technology  
+November 2024 – August 2027 · CGPA: 8.1/10
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=srikanthdwa0925-crypto&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=808080&rank_icon=github" alt="GitHub statistics">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanthdwa0925-crypto&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=808080" alt="Most used languages">
+**Aditya Polytechnic** — Surampalem, India
 
-<img src="https://streak-stats.demolab.com?user=srikanthdwa0925-crypto&hide_border=true&background=00000000&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&dates=808080&currStreakNum=FF69B4&sideNums=EF93C4" alt="GitHub streak statistics" width="70%">
+Diploma in Computer Science and Engineering  
+June 2021 – August 2024 · CGPA: 8.5/10
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srikanthdwa0925-crypto&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true" alt="GitHub contribution activity graph" width="98%">
+## 📜 Certifications
 
-</div>
+- AWS Certified Cloud Practitioner — May 2026
+- Full Stack Web Developer Certification — June 2025
+- Internship Completion — MERN Stack / Firebase — August 2025
 
-🐍 Contribution Snake
-<div align="center">
+---
 
-<!-- GitHub Action: generate the contribution snake and commit it to the output branch. -->
-<img src="https://raw.githubusercontent.com/srikanthdwa0925-crypto/srikanthdwa0925-crypto/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%">
-
-</div>
-
-To enable the snake animation, add .github/workflows/snake.yml to this profile repository:
-name: Generate contribution snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Publish snake
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-🤝 Connect With Me
-<div align="center">
-
-<a href="https://www.linkedin.com/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://x.com/" target="_blank">
-  <img src="https://img.shields.io/badge/X-Follow-F8BBD0?style=for-the-badge&logo=x&logoColor=30232B" alt="X">
-</a>
-<a href="https://www.instagram.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-Follow-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="https://www.tiktok.com/" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-Follow-EF93C4?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-</a>
-<a href="https://www.youtube.com/" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF69B4?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>
-<a href="mailto:sreenew0925@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-F8BBD0?style=for-the-badge&logo=gmail&logoColor=30232B" alt="Email">
-</a>
-
-
-
-
-<a href="https://github.com/srikanthdwa0925-crypto">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-30232B?style=for-the-badge&logo=github&logoColor=EF93C4" alt="GitHub profile">
-</a>
-
-</div>
+## 🤝 Let's Connect
 
 <div align="center">
 
-💗 Thanks for visiting my profile!
-Keep learning. Keep building. Keep making an impact.
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:F8BBD0,100:EF93C4&height=120&section=footer" alt="Pink waving footer" width="100%">
+I'm interested in software development opportunities, internships, and collaborations on useful products.
+
+[![Email](https://img.shields.io/badge/Email_Me-D4AF37?style=for-the-badge&logo=gmail&logoColor=0B1220)](mailto:sreenew0925@gmail.com)
+[![GitHub](https://img.shields.io/badge/Explore_My_Work-142B4A?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/srikanthdwa0925-crypto)
+
+**Keep learning. Keep building. Keep creating impact.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B1220,50:142B4A,100:D4AF37" width="100%" alt="Royal blue and gold footer"/>
 
 </div>
